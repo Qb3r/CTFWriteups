@@ -1,5 +1,5 @@
 # CTFWriteups
-A list of CTFs I solved in preparation of a career in Cyber Security.
+A list of CTFs I solved in preparation for a career in Cyber Security.
 
 ## TryHackMe - CTFs
 
