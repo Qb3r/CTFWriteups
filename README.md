@@ -1,6 +1,8 @@
 # CTFWriteups
 A list of CTFs I solved in preparation for a career in Cyber Security.
 
+![TryHackMe - Qb3r]()
+
 ## TryHackMe - CTFs
 
   [Pickle Rick](https://rootissh.in/tryhackme-pickle-rick-ctf-writeup-fc690b7144d3)
