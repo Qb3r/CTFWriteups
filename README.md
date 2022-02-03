@@ -1,7 +1,7 @@
 # CTFWriteups
 A list of CTFs I solved in preparation for a career in Cyber Security.
 
-![TryHackMe - Qb3r]()
+![TryHackMe - Qb3r](https://github.com/Qb3r/CTFWriteups/blob/main/img/TryHackMe%20_%20Qb3r.png)
 
 ## TryHackMe - CTFs
 
