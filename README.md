@@ -11,12 +11,11 @@ A list of CTFs I solved in preparation for a career in Cyber Security.
 
   -[RootmeCTF](https://rootissh.in/tryhackme-rootme-ctf-writeup-b08d46ab7880)
 
-<<<<<<< HEAD
-  [Bounty Hacker](https://rootissh.in/tryhackme-bountyhacker-room-8efcaddfb0a3)
-
-## HackTheBox Wrieteups
-=======
   -[Bounty Hacker](https://rootissh.in/tryhackme-bountyhacker-room-8efcaddfb0a3)
+
+## HackTheBox Writeups
+
+  -[Backdoor](https://rootissh.in/tryhackme-bountyhacker-room-8efcaddfb0a3)
 
 ## Hack The Box - Starting Point
 
