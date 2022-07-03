@@ -20,12 +20,3 @@ A list of CTFs I solved in preparation for a career in Cyber Security.
 ## Hack The Box - Starting Point
 
 ### Tier 0
-
-	[]()
-
-	[]()
-
-	[]()
-
-	[]()
->>>>>>> eb86b8a93602e6832429a51898d30cda27105256
