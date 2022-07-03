@@ -15,7 +15,7 @@ A list of CTFs I solved in preparation for a career in Cyber Security.
 
 ## HackTheBox Writeups
 
-  -[Backdoor](https://rootissh.in/tryhackme-bountyhacker-room-8efcaddfb0a3)
+  -[Backdoor](https://github.com/Qb3r/CTFWriteups/tree/main/HTB%20Writeups/Backdoor)
 
 ## Hack The Box - Starting Point
 
